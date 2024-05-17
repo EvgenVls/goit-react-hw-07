@@ -1,0 +1,19 @@
+.contactCard {
+  display: flex;
+  align-items: center;
+  max-width: 480px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.contactData {
+  width: 240px;
+  font-size: 16px;
+}
+
+.btn {
+  height: 30px;
+  font-size: 16px;
+  padding: 4px;
+}
